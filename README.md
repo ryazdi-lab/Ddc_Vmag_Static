@@ -74,8 +74,8 @@ Other observations from the recorded runs:
 The standard neural loss combines equally weighted voltage MSE and MAE:
 
 $$
-\mathcal L_V=0.5\operatorname{MSE}(\hat{\mathbf v},\mathbf v)
-+0.5\operatorname{MAE}(\hat{\mathbf v},\mathbf v).
+\mathcal L_V=0.5\mathrm{MSE}(\hat{\mathbf v},\mathbf v)
++0.5\mathrm{MAE}(\hat{\mathbf v},\mathbf v).
 $$
 
 The centrality-aware loss adds `0.3 × (betweenness MSE + closeness MSE)` using DDC-derived auxiliary targets.
