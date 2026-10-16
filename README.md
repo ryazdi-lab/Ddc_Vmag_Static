@@ -93,7 +93,6 @@ XGBoost uses learning rate `0.05`, row/feature subsampling `0.8`, and early-stop
 
 ## Authors
 
-- Mohammad Shahraeini — Department of Electrical Engineering, Golestan University, Gorgan, Iran.
-- Reza Yazdi — Department of Computer Engineering, Golestan University, Gorgan, Iran.
+- Mohammad Shahraeini, Department of Electrical Engineering, Golestan University, Gorgan, Iran.
+- Reza Yazdi, Department of Computer Engineering, Golestan University, Gorgan, Iran.
 
-The manuscript includes the relevant operational-centrality and model references. Publication metadata or a DOI for this benchmark should be added once available.
