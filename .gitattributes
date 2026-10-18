@@ -1,0 +1,2 @@
+Vmag_prj/V_MAG_dataset/case57/dataset_train.npz filter=lfs diff=lfs merge=lfs -text
+Vmag_prj/V_MAG_dataset/case118/dataset_train.npz filter=lfs diff=lfs merge=lfs -text
